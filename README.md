@@ -1,2 +1,2 @@
-# kayakedu.in
+# kayakedu
 Education
