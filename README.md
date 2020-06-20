@@ -1,3 +1,0 @@
-# kayakedu
-Education
-test
